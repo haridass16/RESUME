@@ -1,0 +1,216 @@
+.hdcont{
+    display: flex;
+}
+
+.sup{
+    margin: 5px;
+    color: rgb(240, 124, 23) ;
+      padding: 5px 10px;
+    display: flex;
+    justify-content:flex-start ;
+    width: 30%;
+    justify-content: left;
+}
+
+#nav1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: black;  
+}
+
+button{
+    
+    background-color: rgb(192, 99, 17);
+    color: white;
+    border: none;
+    border-radius: 2px;
+}
+
+button:hover{
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.nav{
+      margin: 5px;
+      padding: 10px;
+     display: flex;
+     width: 50%;
+      justify-content: center;
+     justify-content: space-between;
+     margin-left: 40%;
+}
+
+p,h1{
+    color: aliceblue;
+}
+
+#container1{
+    background-color: black;
+    padding: 70px;
+    display: flex;
+    justify-content: center;   
+    justify-content: space-evenly;
+}
+
+#t{
+    color: black;
+}
+
+.pic{
+    display: flex;
+    justify-content:end;
+    justify-content: center;
+    width: 20px;
+    padding: 50px 100px;
+    border-radius: 100px;
+    margin-top: -45px;
+
+    
+}
+
+
+.pic2{
+
+    border: 2px solid black;
+    text-align: center;
+    padding: 20px;
+    height: 50px;
+}
+
+
+.container2{
+
+padding: 50px;
+    display: flex;
+    
+    flex-direction: row;
+}
+
+#bt{   
+    padding: 10px 20px;
+    width: 200px;
+}
+
+.items{
+
+    display: flex;
+    border: 2px solid black;
+    justify-content: space-evenly;
+    padding: 2em;
+
+
+}
+
+#p1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    width: 210px;
+    height: 150px;
+    padding: 2em;
+    border-radius: 10px;
+}
+
+#logo{
+    
+    background-color: rgb(192, 99, 17);
+
+    margin-left: 35%;
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+}
+
+
+
+.head{
+    width: 25%;
+    text-align: center;
+    padding: 1em;
+    margin-left: 450px;
+    
+}
+
+.trd{
+    background-color: black;
+
+
+}
+
+h4{
+    text-align: center;
+}
+
+pre{
+    text-align: center;
+}
+
+.ttl{
+   text-align: center;
+}
+
+.skl{
+
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+.tec,.lang{
+    margin-left: 10%;
+    width: 50%;
+    height: 40%;
+}
+
+.out{
+    background-color: black;
+    width: 60%;
+
+}
+
+.in{
+    background-color: rgb(255, 0, 0);
+    width: 30%;
+}
+
+.in2{
+    background-color: rgb(255, 0, 0);
+    width: 30%;
+}
+
+.in3{
+    background-color: rgb(255, 0, 0);
+    width: 70%;
+    
+}
+
+.in4{
+    background-color: rgb(255, 0, 0);
+    width: 70%;
+}
+
+.in5{
+    background-color: rgb(255, 0, 0);
+    width: 45%;
+}
+
+.in6{
+    background-color: rgb(255, 0, 0);
+    width: 80%;
+}
+
+.in7{
+    background-color: rgb(255, 0, 0);
+    width: 90%;
+}
+
+.in8{
+    background-color: rgb(255, 0, 0);
+    width: 67%;
+}
